@@ -10,11 +10,11 @@ contract TokenFaucet {
         _token = token_;
     }
 
-    function drip(address recipient, uint256 amount) external {
+    function drip(address recipient, uint256 amount) public {
         _token.transfer(recipient, amount);
     }
 
-    function getTokenAddress() external view returns (address) {
+    function getTokenAddress() public view returns (address) {
         return address(_token);
     }
 }

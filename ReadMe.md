@@ -1,2 +1,2 @@
-PestoGreen deployed at: 0xa160C0eb0F4C51F89E1d6c9c996f68eA5F4db4a1  
-TokenFaucet deployed at: 0x2c8fC69327B2897614Cf277391583466e55A31d8
+ PestoGreen deployed at: 0x1996Db7C33B49FeA28b0aed9A3A1A12e3e12ec5c  
+ TokenFaucet deployed at: 0x0006B9BAf4315f1884cEd26925a3eC069159F3a4
