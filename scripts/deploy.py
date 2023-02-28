@@ -6,7 +6,7 @@ def main():
     account = get_account()
     # 部署代币合约
     token = PestoGreen.deploy(
-        "PestoGreen", "PG", {'from': account}, publish_source=True)
+        "PCoin", "PCoin", {'from': account}, publish_source=True)
 
     # 部署Token Faucet合约并传入代币地址
     faucet = TokenFaucet.deploy(
