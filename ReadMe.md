@@ -17,6 +17,11 @@ price = 10000/53.3333333333= 187.5
 Because the price must be integer,so price will be set as 187
 
 PNFTF001 (Optional)  
+  
+    
+      
+        
+          
 ``` 
    PCoin deployed at: 0x9830082B8Fba4680382Bb2a1d5316291bbf1d046       
    TokenFaucet deployed at: 0x58f3D716BB06aEAFe9df56159A2DBAF2fA454648   
@@ -30,18 +35,18 @@ You can click here to buy PCoin: https://goerli.etherscan.io/address/0x5Ce2d93f6
    TokenSale deployed at: 0x2d151068E01C5Aee8a0d8553B11BcD4299DFCd15   
    Token : PCoinE001           surname: PCoinE001      
 ```  
-You can click here to buy PCoin: https://goerli.etherscan.io/address/0x2d151068E01C5Aee8a0d8553B11BcD4299DFCd15#writeContract    
+You can click here to buy PCoinE001: https://goerli.etherscan.io/address/0x2d151068E01C5Aee8a0d8553B11BcD4299DFCd15#writeContract    
 ``` 
    PCoinE002 deployed at: 0x3E24039dfCd530b71aA6EEb5547948400d431dA2       
    TokenFaucet deployed at: 0x7B11E54866C2DFb2cf863E2482eA745B719d9a51   
    TokenSale deployed at: 0xA327e38584a4B07D2428AE48f99ef632EA577f14   
    Token : PCoinE002           surname: PCoinE002      
 ```  
-You can click here to buy PCoin: https://goerli.etherscan.io/address/0xA327e38584a4B07D2428AE48f99ef632EA577f14#writeContract  
+You can click here to buy PCoinE002: https://goerli.etherscan.io/address/0xA327e38584a4B07D2428AE48f99ef632EA577f14#writeContract  
 ``` 
    PCoinE003 deployed at: 0x94339afc54A777Dda42Bbc704B5609Fa3B78b050       
    TokenFaucet deployed at: 0x5bD4790f14603AcdeEB92B93B265eb1ffd423e8C   
    TokenSale deployed at: 0x392f9323578999661f2796b3eA16fB876577e16c   
    Token : PCoinE003           surname: PCoinE003      
 ```  
-You can click here to buy PCoin: https://goerli.etherscan.io/address/0x392f9323578999661f2796b3eA16fB876577e16c#writeContract  
+You can click here to buy PCoinE003: https://goerli.etherscan.io/address/0x392f9323578999661f2796b3eA16fB876577e16c#writeContract  
