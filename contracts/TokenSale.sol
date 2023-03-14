@@ -38,7 +38,7 @@ contract TokenSale {
 
     function buyTokens(uint256 _tokenAmount) public payable {
         require(
-            msg.value == _tokenAmount * tokenPrice,
+            msg.value * tokenPrice== _tokenAmount,
             "Amount of ether sent is not correct"
         );
         require(
