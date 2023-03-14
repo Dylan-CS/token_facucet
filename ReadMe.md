@@ -1,3 +1,4 @@
+```
 Every Project 10000 token    
   
 PcoinE001 (20k USD)    
@@ -17,11 +18,7 @@ price = 10000/53.3333333333= 187.5
 Because the price must be integer,so price will be set as 187
 
 PNFTF001 (Optional)  
-  
-    
-      
-        
-          
+```             
 ``` 
    PCoin deployed at: 0x9830082B8Fba4680382Bb2a1d5316291bbf1d046       
    TokenFaucet deployed at: 0x58f3D716BB06aEAFe9df56159A2DBAF2fA454648   
